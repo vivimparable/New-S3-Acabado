@@ -179,7 +179,7 @@ function calculateTotal() {
        
         
 }
-console.log(total);//total de productos
+console.log(total);//total 
 
 }
 
